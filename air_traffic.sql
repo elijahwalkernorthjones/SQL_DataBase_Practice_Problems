@@ -1,4 +1,4 @@
--- Drop the database if it exists
+-- Drop the database if it exists damn rite
 DROP DATABASE IF EXISTS air_traffic;
 
 -- Create a new database
